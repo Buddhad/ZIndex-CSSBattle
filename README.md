@@ -11,10 +11,10 @@ Partial non-optimal.
 
 ![](Img/ZIndeximg.png)
 
-+ [Target #79 - Tambourine](./77.Tambourine.md)
++ [Target #79 - Tambourine](./79.Tambourine.md)
 
 ![](Img/79.png)
 
-+ [Target #80 - Piano](./77.Piano.md)
++ [Target #80 - Piano](./80.Piano.md)
 
 ![](Img/80.png)
